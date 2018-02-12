@@ -10,7 +10,11 @@ namespace Library_Management_Web.Controllers
     {
         public ActionResult Index()
         {
-            return View();
+            if (User.Identity.IsAuthenticated)
+            {
+                ViewBag.Status = "Yes";
+            }
+                return View();
         }
 
         public ActionResult About()

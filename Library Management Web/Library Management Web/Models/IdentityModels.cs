@@ -21,7 +21,7 @@ namespace Library_Management_Web.Models
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
         public ApplicationDbContext()
-            : base("DefaultConnection", throwIfV1Schema: false)
+            : base("LibraryManagementContext", throwIfV1Schema: false)
         {
         }
 

@@ -1,0 +1,71 @@
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\ApplicationInsights.config
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Library Management Web.dll.config
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Library Management Web.dll
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Library Management Web.pdb
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Antlr3.Runtime.dll
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\EntityFramework.dll
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\EntityFramework.SqlServer.dll
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Microsoft.AI.DependencyCollector.dll
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Microsoft.AI.Web.dll
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Microsoft.AI.WindowsServer.dll
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Microsoft.ApplicationInsights.dll
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Microsoft.Owin.dll
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Microsoft.Owin.Security.dll
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Microsoft.Owin.Security.Google.dll
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Microsoft.Web.Infrastructure.dll
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Newtonsoft.Json.dll
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Owin.dll
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\System.Web.Helpers.dll
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\System.Web.Mvc.dll
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\System.Web.Optimization.dll
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\System.Web.Razor.dll
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\System.Web.WebPages.Deployment.dll
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\System.Web.WebPages.dll
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\System.Web.WebPages.Razor.dll
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\WebGrease.dll
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\System.Web.Helpers.xml
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\System.Web.Mvc.xml
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\System.Web.Optimization.xml
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\System.Web.Razor.xml
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\System.Web.WebPages.xml
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\System.Web.WebPages.Deployment.xml
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\System.Web.WebPages.Razor.xml
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Antlr3.Runtime.pdb
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Newtonsoft.Json.xml
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\EntityFramework.xml
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\EntityFramework.SqlServer.xml
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Microsoft.Owin.xml
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Microsoft.Owin.Security.xml
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Microsoft.Owin.Security.Google.xml
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Microsoft.ApplicationInsights.xml
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Microsoft.AI.DependencyCollector.xml
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Microsoft.AI.WindowsServer.xml
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Microsoft.AI.Web.xml
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\obj\Debug\Library Management Web.csprojResolveAssemblyReference.cache
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\obj\Debug\Library Management Web.csproj.CoreCompileInputs.cache
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\obj\Debug\Library Management Web.dll
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\obj\Debug\Library Management Web.pdb
