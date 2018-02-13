@@ -11,6 +11,7 @@ namespace Library_Management_Web.Controllers
         // GET: Admin
         public ActionResult Index()
         {
+
             return View();
         }
     }

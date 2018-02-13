@@ -65,7 +65,7 @@ G:\Pros\Library Management\Library-Management\Library Management Web\Library Man
 G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
 G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Microsoft.AI.WindowsServer.xml
 G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\bin\Microsoft.AI.Web.xml
-G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\obj\Debug\Library Management Web.csprojResolveAssemblyReference.cache
 G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\obj\Debug\Library Management Web.csproj.CoreCompileInputs.cache
 G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\obj\Debug\Library Management Web.dll
 G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\obj\Debug\Library Management Web.pdb
+G:\Pros\Library Management\Library-Management\Library Management Web\Library Management Web\obj\Debug\Library Management Web.csprojResolveAssemblyReference.cache

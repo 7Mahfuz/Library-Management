@@ -191,15 +191,24 @@
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\AdminController.cs" />
+    <Compile Include="Controllers\BookBorrowController.cs" />
+    <Compile Include="Controllers\BookController.cs" />
+    <Compile Include="Controllers\CategoryController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
+    <Compile Include="Controllers\PersonRegisterController.cs" />
     <Compile Include="Controllers\userController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\AccountViewModels.cs" />
+    <Compile Include="Models\Book.cs" />
+    <Compile Include="Models\BookBorrow.cs" />
+    <Compile Include="Models\BookCategory.cs" />
     <Compile Include="Models\IdentityModels.cs" />
+    <Compile Include="Models\LibraryManagementContext.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
+    <Compile Include="Models\RegisteredPerson.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
   </ItemGroup>
@@ -261,9 +270,28 @@
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
     <Content Include="Views\Admin\Index.cshtml" />
+    <Content Include="Views\Category\Index.cshtml" />
+    <Content Include="Views\Category\Create.cshtml" />
+    <Content Include="Views\Category\Edit.cshtml" />
+    <Content Include="Views\Category\Delete.cshtml" />
+    <Content Include="Views\Book\Details.cshtml" />
+    <Content Include="Views\Book\Create.cshtml" />
+    <Content Include="Views\Book\Edit.cshtml" />
+    <Content Include="Views\Book\Index.cshtml" />
+    <Content Include="Views\Book\Delete.cshtml" />
+    <Content Include="Views\PersonRegister\Index.cshtml" />
+    <Content Include="Views\PersonRegister\Details.cshtml" />
+    <Content Include="Views\PersonRegister\Create.cshtml" />
+    <Content Include="Views\PersonRegister\Edit.cshtml" />
+    <Content Include="Views\PersonRegister\Delete.cshtml" />
+    <Content Include="Views\BookBorrow\Create.cshtml" />
+    <Content Include="Views\BookBorrow\Return.cshtml" />
+    <Content Include="Views\BookBorrow\Index.cshtml" />
+    <Content Include="Views\BookBorrow\Details.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Models\DAL\" />
     <Folder Include="Views\user\" />
   </ItemGroup>
   <ItemGroup>

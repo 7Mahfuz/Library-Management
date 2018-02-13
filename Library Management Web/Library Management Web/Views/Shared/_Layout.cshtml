@@ -21,13 +21,18 @@
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
+                   
+                    <li>@Html.ActionLink("Home", "Index", "Home")</li>
                     @{
                         if (ViewBag.Status == "Yes")
                         {
                             <li>@Html.ActionLink("Admin Section", "Index", "Admin")</li>
+                            <li>@Html.ActionLink("Books", "Index", "Book")</li>
+                            <li> @Html.ActionLink("Book Category", "Index", "Category")</li>
+                            <li>@Html.ActionLink("Books Boorowing", "Index", "BookBorrow")</li>
+                            <li> @Html.ActionLink("Register A Person", "Index", "PersonRegister")</li>
                         }
                     }
-                    <li>@Html.ActionLink("Home", "Index", "Home")</li>
                     <li>@Html.ActionLink("About", "About", "Home")</li>
                     <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
                 </ul>
