@@ -24,6 +24,10 @@ namespace Library_Management_Web.Controllers
         // GET: Book/Details/5
         public ActionResult Details(int id)
         {
+            if (User.Identity.IsAuthenticated)
+            {
+                ViewBag.Status = "Yes";
+            }
             Book book = _context.Books.Find(id);
             return View(book);
         }
@@ -31,6 +35,10 @@ namespace Library_Management_Web.Controllers
         // GET: Book/Create
         public ActionResult Create()
         {
+            if (User.Identity.IsAuthenticated)
+            {
+                ViewBag.Status = "Yes";
+            }
             List<BookCategory> Categorylist = _context.BookCategory.ToList();
             ViewBag.Categorylist = new SelectList(Categorylist, "CategoryName", "CategoryName");
             return View();
@@ -57,6 +65,10 @@ namespace Library_Management_Web.Controllers
         // GET: Book/Edit/5
         public ActionResult Edit(int id)
         {
+            if (User.Identity.IsAuthenticated)
+            {
+                ViewBag.Status = "Yes";
+            }
             Book book = _context.Books.Find(id);
             List<BookCategory> Categorylist = _context.BookCategory.ToList();
             ViewBag.Categorylist = new SelectList(Categorylist, "CategoryName", "CategoryName");
@@ -83,6 +95,10 @@ namespace Library_Management_Web.Controllers
         // GET: Book/Delete/5
         public ActionResult Delete(int id)
         {
+            if (User.Identity.IsAuthenticated)
+            {
+                ViewBag.Status = "Yes";
+            }
             Book book = _context.Books.Find(id);
             return View(book);
         }

@@ -25,6 +25,10 @@ namespace Library_Management_Web.Controllers
         // GET: BookBorrow/Details/5
         public ActionResult Details(int id)
         {
+            if (User.Identity.IsAuthenticated)
+            {
+                ViewBag.Status = "Yes";
+            }
             BookBorrow borrow = _context.Borrow.Find(id);
             return View(borrow);
         }
@@ -32,6 +36,10 @@ namespace Library_Management_Web.Controllers
         // GET: BookBorrow/Create
         public ActionResult Create()
         {
+            if (User.Identity.IsAuthenticated)
+            {
+                ViewBag.Status = "Yes";
+            }
             List<Book> Booklist = _context.Books.ToList();
             ViewBag.Booklist = new SelectList(Booklist, "BookName", "BookName");
 
@@ -69,6 +77,10 @@ namespace Library_Management_Web.Controllers
         // GET: BookBorrow/Return
         public ActionResult Return(int id)
         {
+            if (User.Identity.IsAuthenticated)
+            {
+                ViewBag.Status = "Yes";
+            }
             DateTime tt = DateTime.Today;
 
             BookBorrow borrow = _context.Borrow.Find(id);
